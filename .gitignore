@@ -1,3 +1,4 @@
 venv
 .vscode
 http_cache.sqlite
+downloads/
